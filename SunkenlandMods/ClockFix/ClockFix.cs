@@ -36,7 +36,10 @@ namespace ClockFix
 
             if (ClockFix.Use12HourTime.Value)
             {
-                ___txtHour.text = $"{hour%12}:{minute:D2} {(hour >= 12 ? "PM" : "AM")}";
+                var hourDisplay = hour % 12;
+                if (hourDisplay == 0)
+                    hourDisplay = 12;
+                ___txtHour.text = $"{hourDisplay}:{minute:D2} {(hour >= 12 ? "PM" : "AM")}";
             }
             else
             {
