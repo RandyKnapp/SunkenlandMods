@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoBedtime", "NoBedtime\NoBedtime.csproj", "{0BD62A28-1041-4CBE-82AB-F108DCF8ED05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BD62A28-1041-4CBE-82AB-F108DCF8ED05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD62A28-1041-4CBE-82AB-F108DCF8ED05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD62A28-1041-4CBE-82AB-F108DCF8ED05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD62A28-1041-4CBE-82AB-F108DCF8ED05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7156E3C3-31C4-4ED2-9276-CA9AE7B01BA6}
+	EndGlobalSection
+EndGlobal
