@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockFix", "ClockFix\ClockF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterPlayerNames", "BetterPlayerNames\BetterPlayerNames.csproj", "{92BA1A06-2C7E-4B24-BF86-0A93C36C1736}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterQuickSlots", "BetterQuickSlots\BetterQuickSlots.csproj", "{69C45483-8BAF-46EA-A41C-1E3E262E7C9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{92BA1A06-2C7E-4B24-BF86-0A93C36C1736}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92BA1A06-2C7E-4B24-BF86-0A93C36C1736}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92BA1A06-2C7E-4B24-BF86-0A93C36C1736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C45483-8BAF-46EA-A41C-1E3E262E7C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C45483-8BAF-46EA-A41C-1E3E262E7C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C45483-8BAF-46EA-A41C-1E3E262E7C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C45483-8BAF-46EA-A41C-1E3E262E7C9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
