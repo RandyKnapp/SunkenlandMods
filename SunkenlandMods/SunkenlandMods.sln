@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoBedtime", "NoBedtime\NoBe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockFix", "ClockFix\ClockFix.csproj", "{E8221CF7-76A3-480D-B374-4080D9C5F0B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterPlayerNames", "BetterPlayerNames\BetterPlayerNames.csproj", "{92BA1A06-2C7E-4B24-BF86-0A93C36C1736}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E8221CF7-76A3-480D-B374-4080D9C5F0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8221CF7-76A3-480D-B374-4080D9C5F0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8221CF7-76A3-480D-B374-4080D9C5F0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92BA1A06-2C7E-4B24-BF86-0A93C36C1736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BA1A06-2C7E-4B24-BF86-0A93C36C1736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BA1A06-2C7E-4B24-BF86-0A93C36C1736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BA1A06-2C7E-4B24-BF86-0A93C36C1736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
