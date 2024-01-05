@@ -40,7 +40,7 @@ namespace NoBedtime
 
         public void Update()
         {
-            if (Input.GetKeyDown(KeyCode.F7) && GlobalDataHelper.IsGlobalDataValid())
+            /*if (Input.GetKeyDown(KeyCode.F7) && GlobalDataHelper.IsGlobalDataValid())
             {
                 Mainframe.code.M_GlobalData.CanSleep = true;
                 Mainframe.code.M_GlobalData.SleepCoolingTime = 0;
@@ -51,7 +51,7 @@ namespace NoBedtime
                 Logger.LogWarning($"           CanSleep: {Mainframe.code.M_GlobalData.CanSleep}");
                 Logger.LogWarning($"   SleepCoolingTime: {Mainframe.code.M_GlobalData.SleepCoolingTime}");
                 Logger.LogWarning($"MaxSleepCoolingTime: {Mainframe.code.M_GlobalData.MaxSleepCoolingTime}");
-            }
+            }*/
         }
     }
 
