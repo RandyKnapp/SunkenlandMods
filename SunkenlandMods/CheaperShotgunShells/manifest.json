@@ -1,0 +1,9 @@
+{
+  "name": "CheaperShotgunShells",
+  "version_number": "0.1.0",
+  "author": "randyknapp",
+  "description": "Shotgun shells cost 1 less component to craft",
+  "dependencies": [
+    "SunkenlandModding-BepInExPack_Sunkenland-5.4.22"
+  ]
+}
