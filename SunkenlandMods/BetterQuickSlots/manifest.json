@@ -1,0 +1,9 @@
+{
+  "name": "BetterQuickSlots",
+  "version_number": "0.1.0",
+  "author": "randyknapp",
+  "description": "Adds four additional quick slots, plus labels. Can mouse wheel scroll through quick slots, middle mouse button to use.",
+  "dependencies": [
+    "SunkenlandModding-BepInExPack_Sunkenland-5.4.22"
+  ]
+}
