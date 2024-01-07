@@ -1,13 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Reflection;
 using BepInEx;
-using BepInEx.Logging;
-using Fusion;
 using HarmonyLib;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace NamedBeds
+namespace LocationBasedBeds
 {
     [BepInPlugin(GUID, NAME, VERSION)]
     public class LocationBasedBeds : BaseUnityPlugin

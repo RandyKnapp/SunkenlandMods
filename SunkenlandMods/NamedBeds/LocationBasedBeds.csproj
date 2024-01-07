@@ -7,8 +7,8 @@
     <ProjectGuid>{CDA2B61E-C407-4A42-93C3-D51EAD4CEB3C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NamedBeds</RootNamespace>
-    <AssemblyName>NamedBeds</AssemblyName>
+    <RootNamespace>LocationBasedBeds</RootNamespace>
+    <AssemblyName>LocationBasedBeds</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -76,6 +76,10 @@
   <ItemGroup>
     <Compile Include="LocationBasedBeds.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="manifest.json" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

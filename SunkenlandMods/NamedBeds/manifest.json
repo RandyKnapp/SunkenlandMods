@@ -1,0 +1,9 @@
+{
+  "name": "LocationBasedBeds",
+  "version_number": "0.1.0",
+  "author": "randyknapp",
+  "description": "When respawning, beds are named for the location they are closest to.",
+  "dependencies": [
+    "SunkenlandModding-BepInExPack_Sunkenland-5.4.22"
+  ]
+}
