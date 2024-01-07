@@ -1,0 +1,9 @@
+{
+  "name": "BetterPlayerNames",
+  "version_number": "0.1.0",
+  "author": "randyknapp",
+  "description": "Configurable player name display settings. They always appear but can optionally be hidden after a certain distance. They have a black outline. They scale down the farther away the player is. They show the distance to the player.",
+  "dependencies": [
+    "SunkenlandModding-BepInExPack_Sunkenland-5.4.22"
+  ]
+}
