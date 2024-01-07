@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterPlayerNames", "Better
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterQuickSlots", "BetterQuickSlots\BetterQuickSlots.csproj", "{69C45483-8BAF-46EA-A41C-1E3E262E7C9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheaperShotgunShells", "CheaperShotgunShells\CheaperShotgunShells.csproj", "{F8177750-331A-43AB-A98D-E8C60CDC9569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationBasedBeds", "NamedBeds\LocationBasedBeds.csproj", "{CDA2B61E-C407-4A42-93C3-D51EAD4CEB3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{69C45483-8BAF-46EA-A41C-1E3E262E7C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C45483-8BAF-46EA-A41C-1E3E262E7C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C45483-8BAF-46EA-A41C-1E3E262E7C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8177750-331A-43AB-A98D-E8C60CDC9569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8177750-331A-43AB-A98D-E8C60CDC9569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8177750-331A-43AB-A98D-E8C60CDC9569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8177750-331A-43AB-A98D-E8C60CDC9569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA2B61E-C407-4A42-93C3-D51EAD4CEB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA2B61E-C407-4A42-93C3-D51EAD4CEB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA2B61E-C407-4A42-93C3-D51EAD4CEB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA2B61E-C407-4A42-93C3-D51EAD4CEB3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
