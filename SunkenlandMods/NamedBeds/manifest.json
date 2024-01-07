@@ -1,6 +1,7 @@
 {
   "name": "LocationBasedBeds",
   "version_number": "0.1.0",
+  "website_url": "https://discord.gg/Vd89cSgxNW",
   "author": "randyknapp",
   "description": "When respawning, beds are named for the location they are closest to.",
   "dependencies": [

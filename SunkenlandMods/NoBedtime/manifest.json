@@ -1,6 +1,7 @@
 {
   "name": "NoBedtime",
   "version_number": "0.1.0",
+  "website_url": "https://discord.gg/Vd89cSgxNW",
   "author": "randyknapp",
   "description": "Configurable bedtime. Adds an 'alarm' mode, to wake up at the same time every day.",
   "dependencies": [

@@ -1,6 +1,7 @@
 {
   "name": "ClockFix",
   "version_number": "0.1.0",
+  "website_url": "https://discord.gg/Vd89cSgxNW",
   "author": "randyknapp",
   "description": "Clock is fixed, can choose 12 or 24 hour time.",
   "dependencies": [
