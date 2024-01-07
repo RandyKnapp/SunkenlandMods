@@ -1,0 +1,9 @@
+{
+  "name": "ClockFix",
+  "version_number": "0.1.0",
+  "author": "randyknapp",
+  "description": "Clock is fixed, can choose 12 or 24 hour time.",
+  "dependencies": [
+    "SunkenlandModding-BepInExPack_Sunkenland-5.4.22"
+  ]
+}
